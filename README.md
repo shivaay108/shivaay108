@@ -7,14 +7,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<hr>
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivaay108&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaay108&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 <!--
 **shivaay108/shivaay108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Malware Analysis and Penetration Testing 
 - 🌱 I’m currently learning concepts of Cyber Security
@@ -23,4 +27,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shivaay4339@gmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I love linux /0\
--->
