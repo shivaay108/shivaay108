@@ -25,5 +25,5 @@
 - 👯 I’m looking to collaborate on my discord at https://discord.gg/uWcVbP7g
 - 💬 Ask me about Penetration Testing, Malware Analysis.
 - 📫 How to reach me: shivaay4339@gmail.com
-- 😄 Pronouns: Him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love linux /0\
