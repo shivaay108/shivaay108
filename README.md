@@ -8,12 +8,12 @@
   </a>
 </div>
 <hr>
-### :fire: My Stats :
+<center><h3><u> My Stats </u></h3> </center>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivaay108&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivaay108&theme=dark&background=000000)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaay108&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaay108&layout=compact&theme=vision-friendly-dark)(https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 <!--
@@ -27,3 +27,4 @@
 - 📫 How to reach me: shivaay4339@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love linux /0\
+
