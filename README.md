@@ -20,10 +20,10 @@
 **shivaay108/shivaay108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Malware Analysis and Penetration Testing 
-- 🌱 I’m currently learning concepts of Cyber Security
-- 👯 I’m looking to collaborate on my discord at https://discord.gg/uWcVbP7g
-- 💬 Ask me about Penetration Testing, Malware Analysis.
+- 🔭 I’m currently working on Security Oeperations 
+- 🌱 I’m currently learning concepts of Cyber Security snd Cloud Computing 
+- 👯 I’m looking to collaborate on different projects on SOC
+- 💬 Ask me about Security Operations, SIEM, SOAR, Cyber Forensics , Amazon Web Services, 
 - 📫 How to reach me: shivaay4339@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love linux /0\
