@@ -21,7 +21,7 @@
 -->
 
 - 🔭 I’m currently working on Security Oeperations 
-- 🌱 I’m currently learning concepts of Cyber Security snd Cloud Computing 
+- 🌱 I’m currently learning concepts of Cyber Security and Cloud Computing 
 - 👯 I’m looking to collaborate on different projects on SOC
 - 💬 Ask me about Security Operations, SIEM, SOAR, Cyber Forensics , Amazon Web Services, 
 - 📫 How to reach me: shivaay4339@gmail.com
