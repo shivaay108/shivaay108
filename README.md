@@ -1,13 +1,14 @@
 <center><h2>KANE'S DEN</h2></center>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif" width="400"/>
-</div>
-<div id="thm-badge">  <img src="https://tryhackme-badges.s3.amazonaws.com/kanelame.png" alt="TryHackMe"> 
-</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/harsh-sharma-9912a21a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+</div>
+<div id="thm-badge">  <img src="https://tryhackme-badges.s3.amazonaws.com/kanelame.png" alt="TryHackMe"> 
 </div>
 <hr>
 <center><h3><u> My Stats </u></h3> </center>
