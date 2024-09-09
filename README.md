@@ -8,7 +8,7 @@
   </a>
 </div>
 </div>
-<div id="thm-badge">  <img src="https://tryhackme-badges.s3.amazonaws.com/kanelame.png" alt="TryHackMe"> 
+<div id="thm-badge">  <center><img src="https://tryhackme-badges.s3.amazonaws.com/kanelame.png" alt="TryHackMe"> </center>
 </div>
 <hr>
 <center><h3><u> My Stats </u></h3> </center>
